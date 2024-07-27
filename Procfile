@@ -1,0 +1,1 @@
+banbot: bash start.sh
